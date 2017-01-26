@@ -1,6 +1,6 @@
 ---
 title: Facebook
-category: Contact Syncing
+category: Course Structure
 order: 1
 ---
 

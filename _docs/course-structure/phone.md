@@ -1,6 +1,6 @@
 ---
 title: Phone
-category: Contact Syncing
+category: Course Structure
 order: 2
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Video
-category: Media
+category: Ethics
 order: 2
 ---
 
