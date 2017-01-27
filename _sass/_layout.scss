@@ -110,11 +110,29 @@ header {
 		@include align-items(center);
 		border-bottom: 1px solid rgba(0, 0, 0, 0.075);
 
-		img {
-			height: $emblem-size;
-			width: $emblem-size;
-			margin-right: $space - 5;
+		a {
+		    color: white;
+    		text-decoration: none;
+			display:inline-block;
+			
+			img {
+				float: left;
+				height: $emblem-size;
+				width: $emblem-size;
+				margin-right: $space - 5;
+			}
+
+			span {
+				vertical-align:middle;
+				height: 35px;
+    			line-height: 35px;
+			}
 		}
+
+		a:hover {
+			color: #fff;
+		}
+
 	}
 
 	.open-nav {

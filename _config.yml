@@ -40,6 +40,10 @@ collections:
     title: Documentation
     permalink: /:path/
     output: true
+  docs:
+    title: Contact Us
+    permalink: /:path/
+    output: true
 
 defaults:
   -
@@ -57,13 +61,6 @@ defaults:
       _comments:
         category: Group navigation links with this field
         order: Used to sort links in the navigation
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      _comments:
-        type: Marks the impact of this release
 
 # -----------
 # CloudCannon

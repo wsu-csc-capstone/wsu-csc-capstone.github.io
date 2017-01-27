@@ -1,33 +1,15 @@
 ---
-title: WSU CSC Capstone
+title: Wayne State CSC Capstone
 ---
 
-This is the homepage of the Wayne State computer science course (CSC 4996/4997).
+#### Preparing Wayne State students for industry.
+<br/>
+![Jim Anderson](/images/wsu.jpg "Jim Anderson")
 
-> [Sign up](http://example.com/signup) or learn more about ChatApp at [example.com](http://example.com/).
-
-### Getting Started
-
-Getting a message sent is quick and easy with ChatApp:
-
-1. Sign up for an account
-2. Add your friends from their email addresses
-3. Type a message or send a photo
-
-> Feel free to send us a message at [feedback@example.com](mailto:feedback@example.com) with your feedback.
-
-### Features
-
-Explore more of ChatApp by reading about our features:
-
-#### Media
-
-Send images, videos and other media to people. Sources include your computer, phone and Facebook.
-
-#### Contact Syncing
-
-Sync your contact list with your phone and/or Facebook contacts. Never lose your contacts between devices again!
-
-#### Devices
-
-ChatApp is available everywhere. Find out how to set it up on your all your devices.
+Before graduating, every Wayne State computer science student must pass
+the Senior Design (ie Capstone) course (CSC 4996/4997). This work intensive course is designed
+to pair students with a number of 'real world' clients to deliver high-quality
+software solutions. During the semester, we challenge our **Aim Higher** and take pride in
+their projects. Students who successfully complete this course are better 
+equiped to solve industry challenges and make impactful contributions
+wherever they are employed.
