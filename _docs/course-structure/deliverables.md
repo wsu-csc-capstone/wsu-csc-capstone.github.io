@@ -16,17 +16,17 @@ completing their assigned project.
 and create a detailed requirements document. This will form the basis for work they
 must complete by the end of the semester.
 3. **Design Document** - Once requirements have been collected, the student teams
-must design out how they will build there software. This includes a wealth of 
-diagrams showing to flow of the various use cases their solution must support.
+must design out how they will build their software. This includes a wealth of 
+diagrams showing the flow of the various use cases their solution must support.
 4. **Test Plan** - The students must create a detailed test document demonstrating
 how to test the many use cases inside of their application.
 5. **Deployment Document** - Finally, the teams must document how to deploy their
 software onto a new piece of hardware.
 
 ## Project Milestones
-1. **Alpha** - Students must present a working prototype demonstrating they understand 
+1. **Alpha** - Students must present a working prototype demonstrating that they understand 
 the requirements and have connected all the major components.
-2. **Beta** - Students present a near final version of there application. At this point
+2. **Beta** - Students present a near final version of their application. At this point,
 the applications should be *feature complete* and all that is left is
 testing, styling, and debugging.
 3. **Final Presentation** - Students present their final project in a fully
