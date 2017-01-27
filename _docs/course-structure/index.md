@@ -11,10 +11,10 @@ phase starts before the semester even starts. Dr. Khayyam Hashmi
 and Dr. Sam Bryfczynski organize a set of projects for the students 
 sponsored by external clients. There is usually a wide variety
 of sponsors in many industries. A few examples are listed below.
-- **Very Large Organizations** - General Motors and Fiat Chrysler)
-- **Medium Sizes Organizations** - Urban Science
-- **Startups** - Deelio
-- **Academic** - Advaita
+* **Very Large Organizations** - General Motors and Fiat Chrysler)
+* **Medium Sizes Organizations** - Urban Science
+* **Startups** - Deelio
+* **Academic** - Advaita
 
 Each organization must come up with a 1 page summary of the 
 system they would like their student team to develop. At this point

@@ -20,6 +20,8 @@ The team who created the application was Anthony Azzi and Jon Swiercyznski who c
 to learn and showcase our skills. The work was both challenging and difficult, and it feels awesome 
 to be recognized by the College of Engineering as one of the top projects!"
 
+![Project Telehealth Team](/images/Telehealth.jpg "Project Telehealth Team")
+
 In 2015, we had 2 teams finish in the top 3 at design day. First place went to Project Portia, an augmented 
 reality motion comic book which was developed for the Wayne State University College for Creative Studies.
 The student team consisted of Michael Simons, Mary Desjarlais, and Mahmoud Eraqi. Third place in 2015 went 
