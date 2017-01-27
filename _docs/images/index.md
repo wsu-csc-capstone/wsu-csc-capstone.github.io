@@ -6,9 +6,9 @@ submenu-order: 0
 inmenu: true
 ---
 
-Here are some images taken throughout a semester. During the semester,
+Here are some images taken throughout a semester where
 there are presentations from clients, industry experts, instructors, and the
-students themselves. Student are required to make many professional presentations
+students themselves. Students are required to make many professional presentations
 for all of their deliverables.
 
 #### Client Presenting Project Idea to Class

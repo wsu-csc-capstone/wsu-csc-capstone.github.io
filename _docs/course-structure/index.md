@@ -7,7 +7,7 @@ inmenu: true
 ---
 
 This course is broken up into several general phases. The first
-phase starts before the semester even starts. Dr. Khayyam Hashmi
+phase starts before the semester even begins. Dr. Khayyam Hashmi
 and Dr. Sam Bryfczynski organize a set of projects for the students 
 sponsored by external clients. There is usually a wide variety
 of sponsors in many industries. A few examples are listed below.
@@ -30,5 +30,5 @@ the student teams will meet, organize, and contact their clients.
 
 Following this, students meet on a weekly basis with their clients
 as they complete their [deliverables](/course-structure/deliverables/) 
-throughout the semester culminating in a delivering a completed
+throughout the semester culminating in delivering a completed
 application to their client.

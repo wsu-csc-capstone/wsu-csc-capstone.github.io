@@ -12,7 +12,7 @@ as well as a complete final project.
 ## Documentation
 1. **Development Plan** - This document describes how each student team plans on 
 completing their assigned project. 
-2. **Requirement Document** - After interacting with project sponsors, student collect
+2. **Requirement Document** - After interacting with project sponsors, students collect
 and create a detailed requirements document. This will form the basis for work they
 must complete by the end of the semester.
 3. **Design Document** - Once requirements have been collected, the student teams

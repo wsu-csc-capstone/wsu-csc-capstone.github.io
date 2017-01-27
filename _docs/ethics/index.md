@@ -21,6 +21,6 @@ of a technological society and as professionals in computer-related fields. A pr
 computer professionals who understand the implications of what they create and how it fits into society 
 at large. 
 
-This part of the course allows student the opportunity to give a professional
+This part of the course gives students the opportunity to give a professional
 presentation. We encourage the presenters to engage the rest of the class in 
 a discussion about the topic presented. 
