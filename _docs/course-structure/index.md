@@ -12,7 +12,7 @@ and Dr. Sam Bryfczynski organize a set of projects for the students
 sponsored by external clients. There is usually a wide variety
 of sponsors in many industries. A few examples are listed below.
 
-+ **Very Large Organizations** - General Motors and Fiat Chrysler)
++ **Very Large Organizations** - General Motors and Fiat Chrysler
 + **Medium Sizes Organizations** - Urban Science
 + **Startups** - Deelio
 + **Academic** - Advaita
