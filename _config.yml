@@ -4,7 +4,7 @@
 title: WSU CSC Capstone
 url: "https://long-pig.cloudvent.net"
 baseurl:
-google_analytics_key:
+google_analytics_key: UA-91022798-1
 show_full_navigation: true
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
