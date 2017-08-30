@@ -1,5 +1,5 @@
 ---
-title: Wayne State CSC Capstone Test
+title: Wayne State CSC Capstone
 ---
 
 #### Preparing Wayne State students for industry.
