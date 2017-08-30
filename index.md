@@ -1,10 +1,12 @@
 ---
-title: Wayne State CSC Capstone
+title: Wayne State CSC Capstone Test
 ---
 
 #### Preparing Wayne State students for industry.
 <br/>
-![Jim Anderson](/images/wsu.jpg "Jim Anderson")
+![Wayne State](/images/wsu.jpg "Wayne State")
+
+<img src="/images/wsu.jpg" data-action="zoom">
 
 Before graduating, every Wayne State computer science student must pass
 the Senior Design (ie Capstone) course (CSC 4996/4997). This work-intensive course is designed
