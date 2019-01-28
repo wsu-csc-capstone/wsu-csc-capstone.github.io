@@ -7,8 +7,7 @@ inmenu: true
 ---
 
 This course is broken up into several general phases. The first
-phase starts before the semester even begins. Dr. Khayyam Hashmi
-and Dr. Sam Bryfczynski organize a set of projects for the students 
+phase starts before the semester even begins. Dr. Sam and Seyed organize a set of projects for the students 
 sponsored by external clients. There is usually a wide variety
 of sponsors in many industries. A few examples are listed below.
 
