@@ -22,5 +22,5 @@ and enticing to the students.
 
 If you would like more information about the course or are interested in becoming
 a sponsor, please contact Dr. Sam Bryfczynski ([sbryfcz@gmail.com](mailto:sbryfcz@gmail.com)) and/or 
-Dr. Khayyam Hashmi ([eh2304@wayne.edu](eh2304@wayne.edu)). We'd be happy to hear your ideas and work
+Seyed Ziae Mousavi Mojab ([Mousavi@wayne.edu](Mousavi@wayne.edu)). We'd be happy to hear your ideas and work
 out a proper workload for a student team.
