@@ -21,6 +21,5 @@ projects they want to participate in, we encourage clients to make the 1 pagers 
 and enticing to the students. 
 
 If you would like more information about the course or are interested in becoming
-a sponsor, please contact Dr. Sam Bryfczynski ([sbryfcz@gmail.com](mailto:sbryfcz@gmail.com)) and/or 
-Seyed Ziae Mousavi Mojab ([Mousavi@wayne.edu](Mousavi@wayne.edu)). We'd be happy to hear your ideas and work
+a sponsor, please contact Seyed Ziae Mousavi Mojab ([Mousavi@wayne.edu](Mousavi@wayne.edu)). We'd be happy to hear your ideas and work
 out a proper workload for a student team.
