@@ -19,24 +19,19 @@ time at Wayne State, Dr. Bryfczynski currently works at Urban Science Applicatio
 Analytics Architect. He brings his unique research and background into the classroom by describing common challenges 
 that students will face in the workforce. 
 
-## TAs
+## GTAs
 
-#### Adib Shafi
-Adib is currently PhD candidate at Wayne State University. He has experience in teaching and is happy 
-to share his experiences with students. 
-
-#### Azam Peyvandipour
-Azam is a Ph.D. candidate who has served as a TA for the capstone course for several semesters.
-
-#### Dali Ismail
-Dali is a Ph.D. candidate who is in his second semester helping TA the capstone.
-
-#### Hussain Al-Jafer
-Hussain is a Ph.D. candidate at department of Computer Science, Wayne State University.
-
-#### Sanaz Rabinia
-Sanaz is a Ph.D. student at department of Computer Science, Wayne State University.
+#### Samira Taghavi
 
 #### Shaofeng Shu
-Shaofeng is a Ph.D. student at department of Computer Science, Wayne State University.
+
+#### Dali Ismail
+
+#### Tuan Minh Nguyen
+
+#### Qisheng He
+
+#### Yu Jing
+
+#### Ziyun Xiao
 
